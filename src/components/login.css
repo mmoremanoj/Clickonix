@@ -1,0 +1,32 @@
+.ip{
+    background-color: azure;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border-color: black;
+}
+
+.ip:hover{
+    border-color: darkcyan;
+}
+
+.btn{
+    background-color: darkcyan;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-color: black;
+    border-radius: 5px;
+}
+
+.btn:hover{
+    border-color: darksalmon;
+}
+
+.dd{
+    background-image: url('https://images.ctfassets.net/rxqefefl3t5b/6I2vL9f0IVsDQ8qFgdrxH7/7660c4bab3116a4a04025d5c4802efa5/Virgin-Red-online-shopping-offers.jpg');
+    background-repeat: no-repeat;
+
+ 
+   background-size: cover;
+    
+}
